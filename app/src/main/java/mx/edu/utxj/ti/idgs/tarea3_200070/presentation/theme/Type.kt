@@ -5,6 +5,7 @@ import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.sp
 import androidx.wear.compose.material.Typography
+import mx.edu.utxj.ti.idgs.tarea3_200070.R
 
 // Set of Material typography styles to start with
 val Typography = Typography(
