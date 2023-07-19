@@ -5,7 +5,8 @@
 </div><br><br><br><br><br>
 UNIVERSIDAD TECNOLÓGICA DE XICOTEPEC DE JUÁREZ <br><br>
 Materia: Desarrollo de Dispositivos Inteligentes. <br>
-200070_Mauricio Ramírez López<br>
-Práctica 09: Implemetacion de la primera aplicacion Smart TV "Hola Mundo"<br>
-Descripción: Se creó una aplicación en Android Studio para Wear OS con la API 30 que al ejecutarla manda un "Hola Mundo" en pantalla.<br>
-Fecha entrega: 07 de Julio del 2023
+Alumno:Mauricio Ramírez López<br>
+Matrícula: 200070 <br>
+Tarea 03: Estilización de una interfaz para Wearables que incluya tipografía, imágenes y la implementación de efecto o animación.<br>
+Descripción: <br>
+Fecha entrega: 24 de mayo del 2023
